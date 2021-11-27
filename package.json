@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phaticusthiccy/whatsasena-npm.git"
+    "url": "git+https://github.com/aliyefhx/whatsasena-npm"
   },
   "author": "Phaticusthiccy",
   "license": "GNU",
@@ -67,7 +67,7 @@
   },
   "devDependencies": {},
   "bugs": {
-    "url": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated/issues"
+    "url": "https://github.com/aliyefhx/WhatsAsenaDuplicated"
   },
-  "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme"
+  "homepage": "https://github.com/aliyefhx/WhatsAsenaDuplicated"
 }
